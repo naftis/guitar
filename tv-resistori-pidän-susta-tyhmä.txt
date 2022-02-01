@@ -2,14 +2,16 @@
 
 G              C
 Pidätkö yllätyksistä?
-G           D      Em
+      G     D      Em
 No mä pidän susta, tyhmä
          Bm
 Oot ihan tyhmä
        Am   Am7  Am
 Kun et vieläkään
-         G    C   G
-Voi ymmärtää
+         G    C
+Voi ymmärtää- ää
+
+G
 
 G             C
 Kerro, jos on vielä
@@ -19,47 +21,50 @@ Jotain mitä voin tehdä
 Oot ihan tyhmä
        Am
 Kun et vieläkään
-         G   C   G
+         G   C 
 Voi ymmärtää
+
+G
 
 G   D   C
 
-G           D     C
+              G  D  C
 Mun sydän halkeaa
-G           D     C
+       G     D     C
 Kun et mua huomaa
        G      D          C      Bm  Am   D7
 Joskus tuntuu kuin oisin vaan
-       Em  D   G   Gmaj7
+       Em     G   Gmaj7
 Sulle pelkkää ilmaa
 
 Gmaj7
 
 Em                   Am
 Huudan ja huudan mut kaiku ei kuulu
-C                            Am        D      
+   C                         Am      D      
 Ja vaikka kuinka juoksen ei maisemat muutu
-Em                    Am
+    Em             Am
 Oon vastaus tässä ihan sun edessä
     C                 Am       
 Mut et osaa kysyy ees yhtä kysymystä
  D           Am
    Enkä enää tiedä
-D          C    Bm7 
+D    C          Bm7 
 Mitä mun pitäis tehdä
-Am7   D7 D  G     D   C
-Kun oot niin tyhmä
+Am7 D7   D           G  D   C
+Kun oo-oo-oo-ot niin tyhmä
 
-G           D     C
+              G  D  C
 Mun sydän halkeaa
-G           D     C
+       G     D     C
 Kun et mua huomaa
        G      D          C      Bm  Am   D7
 Joskus tuntuu kuin oisin vaan
-       Em  D   G   Gmaj7
+       Em     G   Gmaj7
 Sulle pelkkää ilmaa
-
+                G     C
 Mun pitäis vaan luovuttaa
+G     C
 Mutten osaa
 Mun pitäis vaan luovuttaa
 Mutten osaa
