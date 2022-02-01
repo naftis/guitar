@@ -35,16 +35,16 @@ Sulle pelkkää ilmaa
 
 Gmaj7
 
-Em               Am     C 
+Em                   Am
 Huudan ja huudan mut kaiku ei kuulu
-C                Am   D            Em
+C                            Am        D      
 Ja vaikka kuinka juoksen ei maisemat muutu
-                   Am
+Em                    Am
 Oon vastaus tässä ihan sun edessä
-    C                 Am    D
+    C                 Am       
 Mut et osaa kysyy ees yhtä kysymystä
-           Am
-Enkä enää tiedä
+ D           Am
+   Enkä enää tiedä
 D          C    Bm7 
 Mitä mun pitäis tehdä
 Am7   D7 D  G     D   C
