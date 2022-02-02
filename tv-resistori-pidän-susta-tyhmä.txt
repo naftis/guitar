@@ -60,15 +60,19 @@ Mun sydän halkeaa
 Kun et mua huomaa
        G      D          C      Bm  Am   D7
 Joskus tuntuu kuin oisin vaan
-       Em     G   Gmaj7
+       Em     G   
 Sulle pelkkää ilmaa
-                G     C
-Mun pitäis vaan luovuttaa
-G     C
-Mutten osaa
-Mun pitäis vaan luovuttaa
-Mutten osaa
 
+Gmaj7
+
+    G               
+Mun pitäis vaan luovuttaa
+Mutten osaa
+       G     C   G     C
+Mun pitäis vaan luovuttaa
+       G    C   G   C
+Mutten osaa
+G    C   G   C -||-
 Luovuttaa
 Sun pitäis vaan luovuttaa
 Luovuttaa
