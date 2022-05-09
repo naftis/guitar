@@ -34,8 +34,11 @@ Palasokeri ja sateet
            C                          C7
 Säteet auringon ja nouset mäen päälle katsomaan
 
-
+Gm               A
 Älä katso minuun vinosti
+         D              Gmaj7 (C mutta etusormi 1 ylös)
 On minun vuoroni katsoa vinosti
+Cmaj7 (C no index) Bm 
 Kerro mulle mitä aiot sanoa
+               Amaj7
 Voidaan sitten molemmat katsoa vinosti
