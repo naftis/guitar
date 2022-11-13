@@ -32,7 +32,7 @@ Olen näkymätön
 Vain niin kauan kunnes törppöilen
                        Fmaj7
 Vain niin kauan kunnes idiotoin
-                       Dm     C7      G
+                       Dm     Cmaj7    G
 Vain niin kauan kunnes pilaan kaiken, olenkohan edes
 F
 Ihminen
@@ -40,7 +40,7 @@ Ihminen
 Vain niin kauan kunnes kykenen
                        Fmaj7
 Vain niin kauan kunnes eläydyn
-                       Dm           C
+                       Dm           Cmaj7
 Vain niin kauan kunnes kuuntelen ja löydän sen,
 G                           Am7
 mitä varjoissa on kuiskittu pitkään
