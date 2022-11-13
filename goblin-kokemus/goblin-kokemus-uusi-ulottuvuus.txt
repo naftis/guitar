@@ -2,18 +2,18 @@ Goblin Kokemus - Uusi Ulottuvuus
 
 Am7    D7            G                C
 Goblin-ulottuvuus on hyvin yksinkertainen
-       Am               D7             F      G    C
+       Am7              D7             F      G    C
 Siellä maailman hulluus väistyy tieltä selvän kohtalon
-     G           F             Am    G     F
+     G           F             Am    G     F  Fmaj7
 Tajunnan ja sen puutteen välillä, se polku on
         D7             
 Siirrän kaikki kirjat Goblin-kortistoon
 
 Am7         D7          G            C
 Goblineiden koneessa on kvanttifysiikkaa
-   Am               D7           F     G   C
-Schrödingerin kissa tottelee goblin-omistajaansa
-   G         F          Am  G     F
+        Am          D7           F     G   C
+Schrödingerin kissa tottelee goblin omistajaa-nsa
+   G         F         Am  G      F  Fmaj7
 Ja jokainen ihminen on säie maailmaan
       D7
 Jossa goblinit ovat yhä vallassaan
@@ -22,21 +22,23 @@ Am7 D7
 
 Am7                                             D7 
 Liidän ajan päällä, toivon että pääsen aikaani mukaan
-                                        C 
+                                        Cmaj7
 Kun tuntuu et mun hommista ei kiinnostu kukaan
-                                       Dm     G
+                                       Dm         G
 Olen näkymätön kunnes paljastan itseni huonoksi
-     F                                 C
-Olen näkymätön, vain niin kauan kunnes törppöilen
-                       F
+     Fmaj7
+Olen näkymätön
+                       Cmaj7
+Vain niin kauan kunnes törppöilen
+                       Fmaj7
 Vain niin kauan kunnes idiotoin
-                       Dm     C7
-Vain niin kauan kunnes pilaan kaiken
-G                    F
-      Olenkohan edes ihminen
-                       C
+                       Dm     C7      G
+Vain niin kauan kunnes pilaan kaiken, olenkohan edes
+F
+Ihminen
+                       Cmaj7
 Vain niin kauan kunnes kykenen
-                       F
+                       Fmaj7
 Vain niin kauan kunnes eläydyn
                        Dm           C
 Vain niin kauan kunnes kuuntelen ja löydän sen,
