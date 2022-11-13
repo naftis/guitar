@@ -40,7 +40,7 @@ Ihminen
 Vain niin kauan kunnes kykenen
                        Fmaj7
 Vain niin kauan kunnes eläydyn
-                       Dm           Cmaj7
-Vain niin kauan kunnes kuuntelen ja löydän sen,
-G                           Am7
-mitä varjoissa on kuiskittu pitkään
+                       Dm           Cmaj7       G 
+Vain niin kauan kunnes kuuntelen ja löydän sen, mitä varjoissa on kuiskittu
+Am7
+pitkään
