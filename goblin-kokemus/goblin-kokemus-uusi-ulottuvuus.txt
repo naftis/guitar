@@ -11,7 +11,7 @@ Siirrän kaikki kirjat Goblin-kortistoon
 
 Am7         D7          G            C
 Goblineiden koneessa on kvanttifysiikkaa
-Am                  D7           F     G   C
+   Am               D7           F     G   C
 Schrödingerin kissa tottelee goblin-omistajaansa
    G         F          Am  G     F
 Ja jokainen ihminen on säie maailmaan
@@ -22,9 +22,9 @@ Am7 D7
 
 Am7                                             D7 
 Liidän ajan päällä, toivon että pääsen aikaani mukaan
-                                        C7 
+                                        C 
 Kun tuntuu et mun hommista ei kiinnostu kukaan
-     Dm                                G
+                                       Dm     G
 Olen näkymätön kunnes paljastan itseni huonoksi
      F                                 C
 Olen näkymätön, vain niin kauan kunnes törppöilen
