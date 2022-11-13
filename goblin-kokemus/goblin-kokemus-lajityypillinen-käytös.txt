@@ -1,21 +1,21 @@
 Goblin Kokemus - Lajityypillinen käytös
 
-C                                Am
+Cmaj7                             Am
 Voi olla että goblin vei vaihdon välineet
-C                        Am
+Cmaj7                    Am
 Ne on arvoesineittesi perään
-C                          Am
+Cmaj7                      Am
 Goblinin vainu tekee siitä heikon
-C                               Am 
+Cmaj7                           Am 
 Niillon vaikeeta rakkautta ymmärtää
 
-C                              Am
+Cmaj7                          Am
 Arvoa ei ole muulla kuin kiiltävällä
-C                            Am
+Cmaj7                        Am
 Ajatuksessa järkeä jos ei tienaa
-C                       Am
+Cmaj7                   Am
 Kauheinta ois jos rahat loppus
-C                       Am
+Cmaj7                   Am
 Ei kaikki, pelkästään rahat
 
 G                          F
@@ -26,7 +26,7 @@ Pitää iho parkita kultakaivoksissa
 Missä katsotaan onko lapsesta kultaa kaivamaan
                                  Am
 Voiko goblinille opettaa että on asioita kultaakin kalliimpaa
-      A#            Am
+      Bb            Am
 Joita ei voi maasta ylös kaivaa
 
 C Am C Am
@@ -58,10 +58,10 @@ Pitää iho parkita kultakaivoksissa
 Missä katsotaan onko lapsesta kultaa kaivamaan
                                  Am
 Voiko goblinille opettaa että on asioita kultaakin kalliimpaa
-      A#            Am
+      Bb            Am
 Joita ei voi maasta ylös kaivaa
 
       C
 
-      A#            Am
+      Bb            Am
 Joita ei voi maasta ylös kaivaa
