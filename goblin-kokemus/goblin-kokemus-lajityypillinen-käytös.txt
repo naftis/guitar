@@ -31,22 +31,22 @@ Joita ei voi maasta ylös kaivaa
 
 C Am C Am
 
-C                              Am
+Cmaj7                          Am
 Kaikenmaailman tekosyyt kutsun kylään
-C                                 Am
+Cmaj7                             Am
 Antiikin filosofin lailla keskustellaan
-C                                 Am
+Cmaj7                             Am
 Meikä nojatuolissa ja goblinit sohvalla
-C                                 Am
+Cmaj7                             Am
 Muutama on myös lattialla jaloissani
 
-C                               Am 
+Cmaj7                           Am 
 Goblineissa on kai myös jokin pointti
-C                                     Am
+Cmaj7                                 Am
 Niiton aina enemmän kuin pystyy käsittämään
-C                                  Am 
+Cmaj7                              Am 
 Aina kun oven avaan, on ne siellä jossain
-C                    Am
+Cmaj7                Am
     Ihan sama, minne meen
 
 
@@ -61,7 +61,7 @@ Voiko goblinille opettaa että on asioita kultaakin kalliimpaa
       Bb            Am
 Joita ei voi maasta ylös kaivaa
 
-      C
-
+      Cmaj7
+      
       Bb            Am
 Joita ei voi maasta ylös kaivaa
