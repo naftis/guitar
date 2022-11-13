@@ -2,19 +2,20 @@ Goblin Kokemus - Uusi Ulottuvuus
 
 Am7    D7            G                C
 Goblin-ulottuvuus on hyvin yksinkertainen
-       Am               D7             F      G    C    <-- F voi olla Dm7?
+       Am               D7             F      G    C
 Siellä maailman hulluus väistyy tieltä selvän kohtalon
      G           F             Am    G     F
 Tajunnan ja sen puutteen välillä, se polku on
         D7             
 Siirrän kaikki kirjat Goblin-kortistoon
 
-Am7 D7
-
-
+Am7         D7          G            C
 Goblineiden koneessa on kvanttifysiikkaa
+Am                  D7           F     G   C
 Schrödingerin kissa tottelee goblin-omistajaansa
+   G         F          Am  G     F
 Ja jokainen ihminen on säie maailmaan
+      D7
 Jossa goblinit ovat yhä vallassaan
 
 Am7 D7
