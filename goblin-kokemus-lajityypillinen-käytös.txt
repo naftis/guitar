@@ -49,8 +49,6 @@ Aina kun oven avaan, on ne siellä jossain
 C                    Am
     Ihan sama, minne meen
 
-G                          F
-Gobliniksi tullaan ei synnytä
 
 G                          F
 Gobliniksi tullaan ei synnytä
@@ -62,5 +60,8 @@ Missä katsotaan onko lapsesta kultaa kaivamaan
 Voiko goblinille opettaa että on asioita kultaakin kalliimpaa
       A#            Am
 Joita ei voi maasta ylös kaivaa
+
+      C
+
       A#            Am
 Joita ei voi maasta ylös kaivaa
