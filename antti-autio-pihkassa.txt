@@ -28,7 +28,7 @@ F             C
 Olen pihkassa sinuun
  
 [Chorus]
-C             G                            F
+C             G                            Am
 Sanotaanko jo ääneen että olisit mun kultani
 G                  F
 mun ikioma aarteeni
@@ -62,7 +62,7 @@ F                         C
 nää pikkulinnut ympärillä pään
  
 [Chorus]
-C             G                            F
+C             G                            Am
 Sanotaanko jo ääneen että olisit mun kultani
 G                 F
 mun ikioma aarteeni
