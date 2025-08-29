@@ -1,7 +1,9 @@
 [Intro]
 Gb 9 välistä, sit Gb barre ei mitään kiinni, transponoitu omaan lauluääneen jotenki
 soinnut varmaan vähän vituillaan, korvalla kandee
- 
+
+F#m A9 väli,
+C# E9 väli, ehkä toi ois parempi lauluun mut vaikee soittaa
  
 [Verse 1]
 Gb    Gbsus2*
